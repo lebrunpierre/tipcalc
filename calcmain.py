@@ -33,3 +33,4 @@ while tip_percentage not in percentage:
 pay_per_person = calculate_bill(bill, amount_of_people, tip_percentage)
 
 print(f'Each person should pay {pay_per_person}')
+# test
