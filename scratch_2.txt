@@ -1,0 +1,18 @@
+The goal is to create a tip calculator
+
+interface will be CLI
+
+input
+total bill
+how many people on the bill
+tip percentage
+what each person will play
+
+
+
+
+ classes
+
+ bill
+ people
+ perecentage
